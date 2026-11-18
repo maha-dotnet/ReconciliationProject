@@ -1,0 +1,6 @@
+transaction_id,amount,transaction_date,status
+TXN001,1000,2026-11-01,Success
+TXN002,2100,2026-11-02,Success
+TXN003,1500,2026-11-03,Success
+TXN006,4000,2026-11-06,Success
+TXN005,2500,2026-11-05,Pending

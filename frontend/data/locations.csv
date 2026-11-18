@@ -1,0 +1,5 @@
+location_id,location_name,city,state,country
+LOC001,Branch One,Hyderabad,Telangana,India
+LOC002,Branch Two,Bangalore,Karnataka,India
+LOC003,Branch Three,Chennai,Tamil Nadu,India
+LOC004,Branch Four,Mumbai,Maharashtra,India
